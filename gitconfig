@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = b00732070@essec.edu
+	name = Thomas Kremer
